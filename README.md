@@ -72,7 +72,7 @@ Welcome to **MovieModd**, a cutting-edge web application designed for movie enth
 ## 🔧 Customization
 
 - **TMDB API**: Replace the API key in `.env` to fetch different data.
-- **Appwrite Backend**: Modify the Appwrite configuration in `src/services/appwrite.js` to suit your backend needs.
+- **Appwrite Backend**: Modify the Appwrite configuration  to suit your backend needs.
 - **Tailwind CSS**: Customize the `tailwind.config.js` file to add or modify styles.
 
 ---
