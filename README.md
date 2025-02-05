@@ -87,11 +87,7 @@ Contributions are welcome! If you'd like to improve this project, please follow 
 4. Push to the branch (`git push origin feature/YourFeatureName`).
 5. Open a pull request.
 
----
 
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -114,6 +110,4 @@ Have questions or suggestions? Feel free to reach out!
 
 Enjoy exploring movies with **MovieModd**! 🎥🍿  
 
----
 
-This version should now render correctly on GitHub. Let me know if you encounter any further issues! 😊
